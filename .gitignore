@@ -1,0 +1,36 @@
+# Dependencias
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+build/
+dist/
+
+# Pruebas y cachés
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# Salidas generadas
+reports/*.pdf
+reports/*.json
+reports/*.csv
+reports/*.html
+!reports/.gitkeep
+
+# Secretos y registros
+.env
+.env.*
+!.env.example
+*.log
+
+# Sistema
+.DS_Store

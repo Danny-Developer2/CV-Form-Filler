@@ -1,0 +1,3776 @@
+[
+  {
+    "name": "Text1",
+    "type": "text",
+    "rect": [
+      73.5433,
+      709.504,
+      324.23,
+      730.607
+    ],
+    "page": 0,
+    "label": "solicita",
+    "row_label": "solicita",
+    "column_label": "solicita",
+    "line_label": "Puesto que solicita",
+    "right_label": "",
+    "confidence": 0.941
+  },
+  {
+    "name": "Text2",
+    "type": "text",
+    "rect": [
+      334.102,
+      756.188,
+      371.832,
+      743.397
+    ],
+    "page": 0,
+    "label": "Fecha",
+    "row_label": "Solicitud de Empleo",
+    "column_label": "Fecha",
+    "line_label": "Fecha",
+    "right_label": "",
+    "confidence": 0.956
+  },
+  {
+    "name": "Text3",
+    "type": "text",
+    "rect": [
+      375.03,
+      756.188,
+      412.761,
+      743.397
+    ],
+    "page": 0,
+    "label": "Mensual deseado",
+    "row_label": "Solicitud de Empleo",
+    "column_label": "Mensual deseado",
+    "line_label": "Fecha",
+    "right_label": "",
+    "confidence": 0.937
+  },
+  {
+    "name": "Text4",
+    "type": "text",
+    "rect": [
+      415.319,
+      756.188,
+      453.05,
+      743.397
+    ],
+    "page": 0,
+    "label": "deseado",
+    "row_label": "Solicitud de Empleo",
+    "column_label": "deseado",
+    "line_label": "Fecha",
+    "right_label": "",
+    "confidence": 0.937
+  },
+  {
+    "name": "Text5",
+    "type": "text",
+    "rect": [
+      343.415,
+      711.783,
+      444.457,
+      731.013
+    ],
+    "page": 0,
+    "label": "Sueldo Mensual deseado",
+    "row_label": "Sueldo Mensual deseado",
+    "column_label": "Sueldo Mensual deseado",
+    "line_label": "Sueldo Mensual deseado",
+    "right_label": "",
+    "confidence": 0.951
+  },
+  {
+    "name": "Text6",
+    "type": "text",
+    "rect": [
+      343.415,
+      675.807,
+      444.457,
+      695.692
+    ],
+    "page": 0,
+    "label": "Sueldo Mensual Aprobado",
+    "row_label": "NOTA: Toda información aquí proporcionada será tratada confidencialmente",
+    "column_label": "Sueldo Mensual Aprobado",
+    "line_label": "Sueldo Mensual Aprobado",
+    "right_label": "",
+    "confidence": 0.926
+  },
+  {
+    "name": "Text7",
+    "type": "text",
+    "rect": [
+      334.102,
+      664.738,
+      371.832,
+      651.948
+    ],
+    "page": 0,
+    "label": "Fecha de Contratación",
+    "row_label": "Fecha de Contratación",
+    "column_label": "Fecha de Contratación",
+    "line_label": "Fecha de Contratación",
+    "right_label": "",
+    "confidence": 1.01
+  },
+  {
+    "name": "Text8",
+    "type": "text",
+    "rect": [
+      375.649,
+      664.738,
+      413.38,
+      651.948
+    ],
+    "page": 0,
+    "label": "Contratación",
+    "row_label": "Contratación",
+    "column_label": "Contratación",
+    "line_label": "Fecha de Contratación",
+    "right_label": "",
+    "confidence": 1.01
+  },
+  {
+    "name": "Text9",
+    "type": "text",
+    "rect": [
+      415.679,
+      651.948,
+      453.41,
+      664.738
+    ],
+    "page": 0,
+    "label": "Aprobado",
+    "row_label": "Aprobado",
+    "column_label": "Aprobado",
+    "line_label": "Fecha de Contratación",
+    "right_label": "",
+    "confidence": 0.152
+  },
+  {
+    "name": "Text10",
+    "type": "text",
+    "rect": [
+      25.1383,
+      607.822,
+      170.946,
+      620.612
+    ],
+    "page": 0,
+    "label": "Apellido Paterno",
+    "row_label": "Apellido Paterno",
+    "column_label": "Apellido Paterno",
+    "line_label": "Apellido Paterno",
+    "right_label": "Años",
+    "confidence": 1.005
+  },
+  {
+    "name": "Text11",
+    "type": "text",
+    "rect": [
+      174.783,
+      607.822,
+      320.59,
+      620.612
+    ],
+    "page": 0,
+    "label": "Apellido Materno",
+    "row_label": "Apellido Materno",
+    "column_label": "Apellido Materno",
+    "line_label": "Apellido Materno",
+    "right_label": "Años",
+    "confidence": 1.005
+  },
+  {
+    "name": "Text12",
+    "type": "text",
+    "rect": [
+      328.904,
+      607.822,
+      497.094,
+      620.612
+    ],
+    "page": 0,
+    "label": "Nombre(s)",
+    "row_label": "Nombre(s)",
+    "column_label": "Nombre(s)",
+    "line_label": "Nombre(s)",
+    "right_label": "Años",
+    "confidence": 1.005
+  },
+  {
+    "name": "Text13",
+    "type": "text",
+    "rect": [
+      503.292,
+      607.822,
+      558.289,
+      620.612
+    ],
+    "page": 0,
+    "label": "Edad",
+    "row_label": "Edad",
+    "column_label": "Edad",
+    "line_label": "Edad",
+    "right_label": "Años",
+    "confidence": 1.005
+  },
+  {
+    "name": "Text14",
+    "type": "text",
+    "rect": [
+      25.1383,
+      582.881,
+      170.946,
+      595.671
+    ],
+    "page": 0,
+    "label": "Domicilio",
+    "row_label": "Domicilio",
+    "column_label": "Domicilio",
+    "line_label": "Domicilio",
+    "right_label": "Masculino",
+    "confidence": 1.006
+  },
+  {
+    "name": "Text15",
+    "type": "text",
+    "rect": [
+      174.783,
+      595.671,
+      320.59,
+      582.881
+    ],
+    "page": 0,
+    "label": "Colonia",
+    "row_label": "Colonia",
+    "column_label": "Colonia",
+    "line_label": "Colonia",
+    "right_label": "Masculino",
+    "confidence": 1.006
+  },
+  {
+    "name": "Text16",
+    "type": "text",
+    "rect": [
+      328.904,
+      582.881,
+      397.971,
+      595.671
+    ],
+    "page": 0,
+    "label": "Código Postal",
+    "row_label": "Código Postal",
+    "column_label": "Código Postal",
+    "line_label": "Código Postal Teléfono",
+    "right_label": "Masculino",
+    "confidence": 1.006
+  },
+  {
+    "name": "Text17",
+    "type": "text",
+    "rect": [
+      25.1383,
+      558.22,
+      170.946,
+      571.01
+    ],
+    "page": 0,
+    "label": "Ciudad, Estado",
+    "row_label": "Ciudad, Estado",
+    "column_label": "Ciudad, Estado",
+    "line_label": "Ciudad, Estado",
+    "right_label": "Fecha de Nacimiento Nacionalidad",
+    "confidence": 1.013
+  },
+  {
+    "name": "Text18",
+    "type": "text",
+    "rect": [
+      174.783,
+      558.22,
+      397.331,
+      571.01
+    ],
+    "page": 0,
+    "label": "Lugar de Nacimiento",
+    "row_label": "Lugar de Nacimiento",
+    "column_label": "Lugar de Nacimiento",
+    "line_label": "Lugar de Nacimiento",
+    "right_label": "Fecha de Nacimiento Nacionalidad",
+    "confidence": 1.013
+  },
+  {
+    "name": "Text19",
+    "type": "text",
+    "rect": [
+      400.256,
+      573.37,
+      498.176,
+      589.358
+    ],
+    "page": 0,
+    "label": "Teléfono",
+    "row_label": "Lugar de Nacimiento",
+    "column_label": "Teléfono",
+    "line_label": "Código Postal Teléfono",
+    "right_label": "Masculino",
+    "confidence": 0.848
+  },
+  {
+    "name": "Check Box20",
+    "type": "checkbox",
+    "rect": [
+      500.373,
+      582.212,
+      517.512,
+      593.783
+    ],
+    "page": 0,
+    "label": "Sexo",
+    "row_label": "Sexo",
+    "column_label": "Sexo",
+    "line_label": "Sexo",
+    "right_label": "Masculino",
+    "confidence": 0.958
+  },
+  {
+    "name": "Check Box21",
+    "type": "checkbox",
+    "rect": [
+      500.373,
+      568.92,
+      517.512,
+      580.491
+    ],
+    "page": 0,
+    "label": "Sexo",
+    "row_label": "Lugar de Nacimiento",
+    "column_label": "Sexo",
+    "line_label": "Masculino",
+    "right_label": "Femenino",
+    "confidence": 0.925
+  },
+  {
+    "name": "Check Box22",
+    "type": "checkbox",
+    "rect": [
+      24.2183,
+      531.49,
+      37.9638,
+      544.581
+    ],
+    "page": 0,
+    "label": "Vive",
+    "row_label": "Vive",
+    "column_label": "Vive",
+    "line_label": "Vive con",
+    "right_label": "Sus padres",
+    "confidence": 0.976
+  },
+  {
+    "name": "Check Box23",
+    "type": "checkbox",
+    "rect": [
+      93.6004,
+      531.49,
+      107.346,
+      544.581
+    ],
+    "page": 0,
+    "label": "NOTA: Toda",
+    "row_label": "Sus padres",
+    "column_label": "NOTA: Toda",
+    "line_label": "Vive con",
+    "right_label": "Su familia",
+    "confidence": 0.925
+  },
+  {
+    "name": "Check Box24",
+    "type": "checkbox",
+    "rect": [
+      187.201,
+      531.49,
+      200.946,
+      544.581
+    ],
+    "page": 0,
+    "label": "Lugar de",
+    "row_label": "Su familia",
+    "column_label": "Lugar de",
+    "line_label": "Vive con",
+    "right_label": "Parientes",
+    "confidence": 0.352
+  },
+  {
+    "name": "Check Box25",
+    "type": "checkbox",
+    "rect": [
+      280.801,
+      531.49,
+      294.547,
+      544.581
+    ],
+    "page": 0,
+    "label": "Datos",
+    "row_label": "Parientes",
+    "column_label": "Datos",
+    "line_label": "Vive con",
+    "right_label": "Solo",
+    "confidence": 0.103
+  },
+  {
+    "name": "Check Box26",
+    "type": "checkbox",
+    "rect": [
+      23.5637,
+      519.708,
+      37.3092,
+      506.617
+    ],
+    "page": 0,
+    "label": "Personas",
+    "row_label": "Personas",
+    "column_label": "Personas",
+    "line_label": "Personas que dependen de usted",
+    "right_label": "Hijos",
+    "confidence": 0.979
+  },
+  {
+    "name": "Check Box27",
+    "type": "checkbox",
+    "rect": [
+      92.9459,
+      506.617,
+      106.691,
+      519.708
+    ],
+    "page": 0,
+    "label": "dependen",
+    "row_label": "Hijos",
+    "column_label": "dependen",
+    "line_label": "Personas que dependen de usted",
+    "right_label": "Cónyuge",
+    "confidence": 0.979
+  },
+  {
+    "name": "Check Box28",
+    "type": "checkbox",
+    "rect": [
+      186.546,
+      506.617,
+      200.292,
+      519.708
+    ],
+    "page": 0,
+    "label": "Lugar de",
+    "row_label": "Cónyuge",
+    "column_label": "Lugar de",
+    "line_label": "Personas que dependen de usted",
+    "right_label": "Padres",
+    "confidence": 0.0
+  },
+  {
+    "name": "Check Box29",
+    "type": "checkbox",
+    "rect": [
+      281.456,
+      506.617,
+      295.201,
+      519.708
+    ],
+    "page": 0,
+    "label": "Datos",
+    "row_label": "Padres",
+    "column_label": "Datos",
+    "line_label": "Estado Civil",
+    "right_label": "Otros",
+    "confidence": 0.725
+  },
+  {
+    "name": "Text30",
+    "type": "text",
+    "rect": [
+      401.238,
+      544.581,
+      498.766,
+      558.326
+    ],
+    "page": 0,
+    "label": "Fecha de Nacimiento",
+    "row_label": "Vive con",
+    "column_label": "Fecha de Nacimiento",
+    "line_label": "Fecha de Nacimiento Nacionalidad",
+    "right_label": "",
+    "confidence": 1.008
+  },
+  {
+    "name": "Text31",
+    "type": "text",
+    "rect": [
+      502.039,
+      543.926,
+      587.13,
+      557.672
+    ],
+    "page": 0,
+    "label": "Nacionalidad",
+    "row_label": "Vive con",
+    "column_label": "Nacionalidad",
+    "line_label": "Fecha de Nacimiento Nacionalidad",
+    "right_label": "",
+    "confidence": 0.992
+  },
+  {
+    "name": "Text32",
+    "type": "text",
+    "rect": [
+      437.238,
+      531.49,
+      498.766,
+      544.581
+    ],
+    "page": 0,
+    "label": "Nacimiento",
+    "row_label": "Estatura",
+    "column_label": "Nacimiento",
+    "line_label": "Vive con",
+    "right_label": "Peso",
+    "confidence": 0.955
+  },
+  {
+    "name": "Text33",
+    "type": "text",
+    "rect": [
+      523.33,
+      531.49,
+      586.166,
+      544.581
+    ],
+    "page": 0,
+    "label": "Nacionalidad",
+    "row_label": "Peso",
+    "column_label": "Nacionalidad",
+    "line_label": "Vive con",
+    "right_label": "",
+    "confidence": 1.007
+  },
+  {
+    "name": "Text34",
+    "type": "text",
+    "rect": [
+      462.111,
+      519.053,
+      586.475,
+      532.799
+    ],
+    "page": 0,
+    "label": "Peso",
+    "row_label": "Estado Civil",
+    "column_label": "Peso",
+    "line_label": "Peso",
+    "right_label": "",
+    "confidence": 0.994
+  },
+  {
+    "name": "Check Box35",
+    "type": "checkbox",
+    "rect": [
+      399.929,
+      506.617,
+      414.329,
+      519.053
+    ],
+    "page": 0,
+    "label": "Estado",
+    "row_label": "Otros",
+    "column_label": "Estado",
+    "line_label": "Estado Civil",
+    "right_label": "Soltero",
+    "confidence": 0.962
+  },
+  {
+    "name": "Check Box36",
+    "type": "checkbox",
+    "rect": [
+      466.693,
+      507.271,
+      480.438,
+      519.053
+    ],
+    "page": 0,
+    "label": "Nacimiento",
+    "row_label": "Soltero",
+    "column_label": "Nacimiento",
+    "line_label": "Estado Civil",
+    "right_label": "Casado",
+    "confidence": 0.445
+  },
+  {
+    "name": "Check Box37",
+    "type": "checkbox",
+    "rect": [
+      532.802,
+      506.617,
+      547.202,
+      519.053
+    ],
+    "page": 0,
+    "label": "Nacionalidad",
+    "row_label": "Casado",
+    "column_label": "Nacionalidad",
+    "line_label": "Estado Civil",
+    "right_label": "Otro",
+    "confidence": 0.527
+  },
+  {
+    "name": "Text38",
+    "type": "text",
+    "rect": [
+      39.9274,
+      462.108,
+      340.365,
+      475.883
+    ],
+    "page": 0,
+    "label": "Clave Única de Registro de Población",
+    "row_label": "Clave Única de Registro de Población",
+    "column_label": "Clave Única de Registro de Población",
+    "line_label": "Clave Única de Registro de Población",
+    "right_label": "",
+    "confidence": 1.017
+  },
+  {
+    "name": "Text39",
+    "type": "text",
+    "rect": [
+      349.838,
+      461.108,
+      586.13,
+      476.162
+    ],
+    "page": 0,
+    "label": "AFORE",
+    "row_label": "AFORE",
+    "column_label": "AFORE",
+    "line_label": "AFORE",
+    "right_label": "",
+    "confidence": 1.024
+  },
+  {
+    "name": "Text40",
+    "type": "text",
+    "rect": [
+      26.8365,
+      437.889,
+      172.801,
+      452.289
+    ],
+    "page": 0,
+    "label": "Reg. Fed. De Contribuyentes",
+    "row_label": "Reg. Fed. De Contribuyentes",
+    "column_label": "Reg. Fed. De Contribuyentes",
+    "line_label": "Reg. Fed. De Contribuyentes",
+    "right_label": "",
+    "confidence": 1.015
+  },
+  {
+    "name": "Text41",
+    "type": "text",
+    "rect": [
+      178.164,
+      437.889,
+      341.147,
+      452.289
+    ],
+    "page": 0,
+    "label": "Numero de Seguridad Social",
+    "row_label": "Numero de Seguridad Social",
+    "column_label": "Numero de Seguridad Social",
+    "line_label": "Numero de Seguridad Social",
+    "right_label": "",
+    "confidence": 1.015
+  },
+  {
+    "name": "Text42",
+    "type": "text",
+    "rect": [
+      350.183,
+      437.889,
+      464.075,
+      452.289
+    ],
+    "page": 0,
+    "label": "Cartilla de Servicio Militar No.",
+    "row_label": "Cartilla de Servicio Militar No.",
+    "column_label": "Cartilla de Servicio Militar No.",
+    "line_label": "Cartilla de Servicio Militar No. Pasaporte No.",
+    "right_label": "",
+    "confidence": 1.015
+  },
+  {
+    "name": "Text43",
+    "type": "text",
+    "rect": [
+      470.275,
+      437.889,
+      586.784,
+      452.289
+    ],
+    "page": 0,
+    "label": "Pasaporte No.",
+    "row_label": "Pasaporte No.",
+    "column_label": "Pasaporte No.",
+    "line_label": "Cartilla de Servicio Militar No. Pasaporte No.",
+    "right_label": "",
+    "confidence": 1.015
+  },
+  {
+    "name": "Check Box44",
+    "type": "checkbox",
+    "rect": [
+      24.2183,
+      414.326,
+      37.3093,
+      427.417
+    ],
+    "page": 0,
+    "label": "Tiene",
+    "row_label": "Tiene",
+    "column_label": "Tiene",
+    "line_label": "Tiene licencia de manejo",
+    "right_label": "No",
+    "confidence": 0.981
+  },
+  {
+    "name": "Check Box45",
+    "type": "checkbox",
+    "rect": [
+      63.4912,
+      414.98,
+      77.2367,
+      427.417
+    ],
+    "page": 0,
+    "label": "licencia de",
+    "row_label": "No",
+    "column_label": "licencia de",
+    "line_label": "Tiene licencia de manejo",
+    "right_label": "Si",
+    "confidence": 0.981
+  },
+  {
+    "name": "Text46",
+    "type": "text",
+    "rect": [
+      178.164,
+      414.435,
+      341.147,
+      428.835
+    ],
+    "page": 0,
+    "label": "Clase y Número de Licencia",
+    "row_label": "Si",
+    "column_label": "Clase y Número de Licencia",
+    "line_label": "Clase y Número de Licencia",
+    "right_label": "le permiten trabajar en el país",
+    "confidence": 1.017
+  },
+  {
+    "name": "Text47",
+    "type": "text",
+    "rect": [
+      474.548,
+      414.98,
+      588.439,
+      436.58
+    ],
+    "page": 0,
+    "label": "Pasaporte No.",
+    "row_label": "Siendo extranjero que documentos le permiten trabajar en el país",
+    "column_label": "Pasaporte No.",
+    "line_label": "Estado de Salud y Hábitos Personales",
+    "right_label": "",
+    "confidence": 1.167
+  },
+  {
+    "name": "Check Box48",
+    "type": "checkbox",
+    "rect": [
+      24.2183,
+      370.471,
+      38.6183,
+      385.525
+    ],
+    "page": 0,
+    "label": "¿Como",
+    "row_label": "¿Como",
+    "column_label": "¿Como",
+    "line_label": "¿Como considera su estado de salud actual?",
+    "right_label": "Bueno",
+    "confidence": 0.996
+  },
+  {
+    "name": "Check Box49",
+    "type": "checkbox",
+    "rect": [
+      77.2367,
+      371.78,
+      94.255,
+      385.525
+    ],
+    "page": 0,
+    "label": "considera su",
+    "row_label": "Bueno",
+    "column_label": "considera su",
+    "line_label": "¿Como considera su estado de salud actual?",
+    "right_label": "Regular",
+    "confidence": 0.996
+  },
+  {
+    "name": "Check Box50",
+    "type": "checkbox",
+    "rect": [
+      146.619,
+      372.435,
+      162.328,
+      385.525
+    ],
+    "page": 0,
+    "label": "salud actual?",
+    "row_label": "Regular",
+    "column_label": "salud actual?",
+    "line_label": "¿Como considera su estado de salud actual?",
+    "right_label": "Malo",
+    "confidence": 0.996
+  },
+  {
+    "name": "Check Box51",
+    "type": "checkbox",
+    "rect": [
+      241.528,
+      372.435,
+      255.928,
+      385.525
+    ],
+    "page": 0,
+    "label": "¿Padece",
+    "row_label": "Malo",
+    "column_label": "¿Padece",
+    "line_label": "¿Padece alguna enfermedad crónica?",
+    "right_label": "No",
+    "confidence": 0.996
+  },
+  {
+    "name": "Check Box52",
+    "type": "checkbox",
+    "rect": [
+      280.801,
+      372.435,
+      296.51,
+      384.871
+    ],
+    "page": 0,
+    "label": "alguna",
+    "row_label": "No",
+    "column_label": "alguna",
+    "line_label": "¿Padece alguna enfermedad crónica?",
+    "right_label": "Si (Explique)",
+    "confidence": 0.98
+  },
+  {
+    "name": "Text58",
+    "type": "text",
+    "rect": [
+      348.22,
+      372.435,
+      585.166,
+      385.525
+    ],
+    "page": 0,
+    "label": "crónica?",
+    "row_label": "Si (Explique)",
+    "column_label": "crónica?",
+    "line_label": "¿Padece alguna enfermedad crónica?",
+    "right_label": "",
+    "confidence": 0.996
+  },
+  {
+    "name": "Text59",
+    "type": "text",
+    "rect": [
+      28.8001,
+      348.871,
+      238.256,
+      361.962
+    ],
+    "page": 0,
+    "label": "¿Práctica Ud. Algún Deporte?",
+    "row_label": "¿Práctica Ud. Algún Deporte?",
+    "column_label": "¿Práctica Ud. Algún Deporte?",
+    "line_label": "¿Práctica Ud. Algún Deporte?",
+    "right_label": "",
+    "confidence": 0.995
+  },
+  {
+    "name": "Text60",
+    "type": "text",
+    "rect": [
+      243.492,
+      348.871,
+      437.893,
+      361.962
+    ],
+    "page": 0,
+    "label": "¿Permanece a algún Club Social o Deportivo?",
+    "row_label": "¿Permanece a algún Club Social o Deportivo?",
+    "column_label": "¿Permanece a algún Club Social o Deportivo?",
+    "line_label": "¿Permanece a algún Club Social o Deportivo?",
+    "right_label": "",
+    "confidence": 0.995
+  },
+  {
+    "name": "Text61",
+    "type": "text",
+    "rect": [
+      442.475,
+      348.871,
+      585.821,
+      361.962
+    ],
+    "page": 0,
+    "label": "¿Cuál es su pasatiempo favorito?",
+    "row_label": "¿Cuál es su pasatiempo favorito?",
+    "column_label": "¿Cuál es su pasatiempo favorito?",
+    "line_label": "¿Cuál es su pasatiempo favorito?",
+    "right_label": "",
+    "confidence": 0.995
+  },
+  {
+    "name": "Text62",
+    "type": "text",
+    "rect": [
+      28.8001,
+      323.998,
+      586.475,
+      337.743
+    ],
+    "page": 0,
+    "label": "¿Cuál es su meta en la vida?",
+    "row_label": "¿Cuál es su meta en la vida?",
+    "column_label": "¿Cuál es su meta en la vida?",
+    "line_label": "¿Cuál es su meta en la vida?",
+    "right_label": "",
+    "confidence": 1.013
+  },
+  {
+    "name": "Text63",
+    "type": "text",
+    "rect": [
+      25.5274,
+      283.594,
+      182.619,
+      269.194
+    ],
+    "page": 0,
+    "label": "Padre",
+    "row_label": "Padre",
+    "column_label": "Padre",
+    "line_label": "Padre",
+    "right_label": "",
+    "confidence": 1.034
+  },
+  {
+    "name": "Check Box64",
+    "type": "checkbox",
+    "rect": [
+      188.164,
+      269.67,
+      199.946,
+      289.307
+    ],
+    "page": 0,
+    "label": "Vive",
+    "row_label": "Padre",
+    "column_label": "Vive",
+    "line_label": "Madre",
+    "right_label": "",
+    "confidence": 0.901
+  },
+  {
+    "name": "Check Box65",
+    "type": "checkbox",
+    "rect": [
+      202.255,
+      269.47,
+      214.037,
+      289.107
+    ],
+    "page": 0,
+    "label": "Fin",
+    "row_label": "Padre",
+    "column_label": "Fin",
+    "line_label": "Madre",
+    "right_label": "",
+    "confidence": 0.896
+  },
+  {
+    "name": "Text66",
+    "type": "text",
+    "rect": [
+      217.31,
+      283.594,
+      424.147,
+      269.194
+    ],
+    "page": 0,
+    "label": "Domicilio",
+    "row_label": "Domicilio",
+    "column_label": "Domicilio",
+    "line_label": "Padre",
+    "right_label": "",
+    "confidence": 0.758
+  },
+  {
+    "name": "Text67",
+    "type": "text",
+    "rect": [
+      430.075,
+      269.194,
+      586.512,
+      283.594
+    ],
+    "page": 0,
+    "label": "Ocupación",
+    "row_label": "Ocupación",
+    "column_label": "Ocupación",
+    "line_label": "Padre",
+    "right_label": "",
+    "confidence": 0.758
+  },
+  {
+    "name": "Text68",
+    "type": "text",
+    "rect": [
+      25.5274,
+      245.034,
+      182.619,
+      259.434
+    ],
+    "page": 0,
+    "label": "Madre",
+    "row_label": "Madre",
+    "column_label": "Madre",
+    "line_label": "Madre",
+    "right_label": "",
+    "confidence": 1.018
+  },
+  {
+    "name": "Check Box69",
+    "type": "checkbox",
+    "rect": [
+      188.164,
+      246.179,
+      199.946,
+      265.816
+    ],
+    "page": 0,
+    "label": "Vive",
+    "row_label": "Madre",
+    "column_label": "Vive",
+    "line_label": "Esposa (o)",
+    "right_label": "",
+    "confidence": 0.313
+  },
+  {
+    "name": "Check Box70",
+    "type": "checkbox",
+    "rect": [
+      202.255,
+      245.834,
+      214.037,
+      265.47
+    ],
+    "page": 0,
+    "label": "Fin",
+    "row_label": "Madre",
+    "column_label": "Fin",
+    "line_label": "Esposa (o)",
+    "right_label": "",
+    "confidence": 0.305
+  },
+  {
+    "name": "Text71",
+    "type": "text",
+    "rect": [
+      217.31,
+      245.034,
+      424.147,
+      259.434
+    ],
+    "page": 0,
+    "label": "Domicilio",
+    "row_label": "Domicilio",
+    "column_label": "Domicilio",
+    "line_label": "Madre",
+    "right_label": "",
+    "confidence": 0.154
+  },
+  {
+    "name": "Text72",
+    "type": "text",
+    "rect": [
+      429.693,
+      245.034,
+      586.13,
+      259.434
+    ],
+    "page": 0,
+    "label": "Ocupación",
+    "row_label": "Ocupación",
+    "column_label": "Ocupación",
+    "line_label": "Madre",
+    "right_label": "",
+    "confidence": 0.154
+  },
+  {
+    "name": "Text73",
+    "type": "text",
+    "rect": [
+      25.5274,
+      221.888,
+      182.619,
+      236.288
+    ],
+    "page": 0,
+    "label": "Esposa (o)",
+    "row_label": "Esposa (o)",
+    "column_label": "Esposa (o)",
+    "line_label": "Esposa (o)",
+    "right_label": "",
+    "confidence": 1.027
+  },
+  {
+    "name": "Check Box74",
+    "type": "checkbox",
+    "rect": [
+      188.164,
+      221.888,
+      199.946,
+      241.525
+    ],
+    "page": 0,
+    "label": "Vive",
+    "row_label": "Esposa (o)",
+    "column_label": "Vive",
+    "line_label": "Nombre y edades de los hijos",
+    "right_label": "",
+    "confidence": 0.0
+  },
+  {
+    "name": "Check Box75",
+    "type": "checkbox",
+    "rect": [
+      202.91,
+      222.27,
+      214.692,
+      241.907
+    ],
+    "page": 0,
+    "label": "Fin",
+    "row_label": "Esposa (o)",
+    "column_label": "Fin",
+    "line_label": "Nombre y edades de los hijos",
+    "right_label": "",
+    "confidence": 0.0
+  },
+  {
+    "name": "Text76",
+    "type": "text",
+    "rect": [
+      217.31,
+      221.888,
+      424.147,
+      236.288
+    ],
+    "page": 0,
+    "label": "Domicilio",
+    "row_label": "Domicilio",
+    "column_label": "Domicilio",
+    "line_label": "Esposa (o)",
+    "right_label": "",
+    "confidence": 0.0
+  },
+  {
+    "name": "Text77",
+    "type": "text",
+    "rect": [
+      429.693,
+      221.888,
+      586.13,
+      236.288
+    ],
+    "page": 0,
+    "label": "Ocupación",
+    "row_label": "Ocupación",
+    "column_label": "Ocupación",
+    "line_label": "Esposa (o)",
+    "right_label": "",
+    "confidence": 0.0
+  },
+  {
+    "name": "Text78",
+    "type": "text",
+    "rect": [
+      27.491,
+      198.979,
+      583.203,
+      211.416
+    ],
+    "page": 0,
+    "label": "Nombre y edades de los hijos",
+    "row_label": "Nombre y edades de los hijos",
+    "column_label": "Nombre y edades de los hijos",
+    "line_label": "Nombre y edades de los hijos",
+    "right_label": "",
+    "confidence": 0.993
+  },
+  {
+    "name": "Text80",
+    "type": "text",
+    "rect": [
+      25.5274,
+      144.306,
+      198.328,
+      158.052
+    ],
+    "page": 0,
+    "label": "Primaria",
+    "row_label": "Primaria",
+    "column_label": "Primaria",
+    "line_label": "Primaria",
+    "right_label": "",
+    "confidence": 0.997
+  },
+  {
+    "name": "Text81",
+    "type": "text",
+    "rect": [
+      201.91,
+      145.306,
+      398.884,
+      166.906
+    ],
+    "page": 0,
+    "label": "Dirección",
+    "row_label": "Primaria",
+    "column_label": "Dirección",
+    "line_label": "Dirección",
+    "right_label": "",
+    "confidence": 0.942
+  },
+  {
+    "name": "Text82",
+    "type": "text",
+    "rect": [
+      401.202,
+      144.306,
+      439.82,
+      164.597
+    ],
+    "page": 0,
+    "label": "De",
+    "row_label": "Primaria",
+    "column_label": "De",
+    "line_label": "Secundaria o Prevocacional",
+    "right_label": "",
+    "confidence": 0.885
+  },
+  {
+    "name": "Text83",
+    "type": "text",
+    "rect": [
+      442.475,
+      144.306,
+      481.093,
+      164.597
+    ],
+    "page": 0,
+    "label": "A",
+    "row_label": "Primaria",
+    "column_label": "A",
+    "line_label": "Secundaria o Prevocacional",
+    "right_label": "",
+    "confidence": 0.885
+  },
+  {
+    "name": "Text84",
+    "type": "text",
+    "rect": [
+      483.257,
+      144.306,
+      517.948,
+      164.597
+    ],
+    "page": 0,
+    "label": "Años",
+    "row_label": "Primaria",
+    "column_label": "Años",
+    "line_label": "Secundaria o Prevocacional",
+    "right_label": "",
+    "confidence": 0.885
+  },
+  {
+    "name": "Text85",
+    "type": "text",
+    "rect": [
+      519.057,
+      144.306,
+      588.439,
+      164.597
+    ],
+    "page": 0,
+    "label": "Titulo Recibido",
+    "row_label": "Primaria",
+    "column_label": "Titulo Recibido",
+    "line_label": "Secundaria o Prevocacional",
+    "right_label": "",
+    "confidence": 0.885
+  },
+  {
+    "name": "Text86",
+    "type": "text",
+    "rect": [
+      25.5274,
+      118.47,
+      198.328,
+      132.215
+    ],
+    "page": 0,
+    "label": "Secundaria o Prevocacional",
+    "row_label": "Secundaria o Prevocacional",
+    "column_label": "Secundaria o Prevocacional",
+    "line_label": "Secundaria o Prevocacional",
+    "right_label": "",
+    "confidence": 0.975
+  },
+  {
+    "name": "Text87",
+    "type": "text",
+    "rect": [
+      202.91,
+      119.47,
+      397.965,
+      142.379
+    ],
+    "page": 0,
+    "label": "Dirección",
+    "row_label": "Secundaria o Prevocacional",
+    "column_label": "Dirección",
+    "line_label": "Preparatoria o Vocacional",
+    "right_label": "",
+    "confidence": 0.329
+  },
+  {
+    "name": "Text88",
+    "type": "text",
+    "rect": [
+      401.202,
+      118.924,
+      439.82,
+      139.215
+    ],
+    "page": 0,
+    "label": "De",
+    "row_label": "Secundaria o Prevocacional",
+    "column_label": "De",
+    "line_label": "Preparatoria o Vocacional",
+    "right_label": "",
+    "confidence": 0.25
+  },
+  {
+    "name": "Text89",
+    "type": "text",
+    "rect": [
+      442.475,
+      118.924,
+      481.093,
+      139.215
+    ],
+    "page": 0,
+    "label": "A",
+    "row_label": "Secundaria o Prevocacional",
+    "column_label": "A",
+    "line_label": "Preparatoria o Vocacional",
+    "right_label": "",
+    "confidence": 0.25
+  },
+  {
+    "name": "Text90",
+    "type": "text",
+    "rect": [
+      483.257,
+      118.924,
+      517.948,
+      139.215
+    ],
+    "page": 0,
+    "label": "Años",
+    "row_label": "Secundaria o Prevocacional",
+    "column_label": "Años",
+    "line_label": "Preparatoria o Vocacional",
+    "right_label": "",
+    "confidence": 0.25
+  },
+  {
+    "name": "Text91",
+    "type": "text",
+    "rect": [
+      519.057,
+      118.924,
+      588.439,
+      139.215
+    ],
+    "page": 0,
+    "label": "Titulo Recibido",
+    "row_label": "Secundaria o Prevocacional",
+    "column_label": "Titulo Recibido",
+    "line_label": "Preparatoria o Vocacional",
+    "right_label": "",
+    "confidence": 0.25
+  },
+  {
+    "name": "Text92",
+    "type": "text",
+    "rect": [
+      25.5274,
+      107.997,
+      198.328,
+      94.2515
+    ],
+    "page": 0,
+    "label": "Preparatoria o Vocacional",
+    "row_label": "Preparatoria o Vocacional",
+    "column_label": "Preparatoria o Vocacional",
+    "line_label": "Preparatoria o Vocacional",
+    "right_label": "",
+    "confidence": 0.994
+  },
+  {
+    "name": "Text93",
+    "type": "text",
+    "rect": [
+      202.91,
+      95.2515,
+      397.965,
+      118.161
+    ],
+    "page": 0,
+    "label": "Dirección",
+    "row_label": "Preparatoria o Vocacional",
+    "column_label": "Dirección",
+    "line_label": "Profesional",
+    "right_label": "",
+    "confidence": 0.0
+  },
+  {
+    "name": "Text94",
+    "type": "text",
+    "rect": [
+      401.202,
+      95.706,
+      439.82,
+      115.997
+    ],
+    "page": 0,
+    "label": "De",
+    "row_label": "Preparatoria o Vocacional",
+    "column_label": "De",
+    "line_label": "Profesional",
+    "right_label": "",
+    "confidence": 0.0
+  },
+  {
+    "name": "Text95",
+    "type": "text",
+    "rect": [
+      442.475,
+      95.706,
+      481.093,
+      115.997
+    ],
+    "page": 0,
+    "label": "A",
+    "row_label": "Preparatoria o Vocacional",
+    "column_label": "A",
+    "line_label": "Profesional",
+    "right_label": "",
+    "confidence": 0.0
+  },
+  {
+    "name": "Text96",
+    "type": "text",
+    "rect": [
+      483.257,
+      95.706,
+      517.948,
+      115.997
+    ],
+    "page": 0,
+    "label": "Años",
+    "row_label": "Preparatoria o Vocacional",
+    "column_label": "Años",
+    "line_label": "Profesional",
+    "right_label": "",
+    "confidence": 0.0
+  },
+  {
+    "name": "Text97",
+    "type": "text",
+    "rect": [
+      519.057,
+      95.706,
+      588.439,
+      115.997
+    ],
+    "page": 0,
+    "label": "Titulo Recibido",
+    "row_label": "Preparatoria o Vocacional",
+    "column_label": "Titulo Recibido",
+    "line_label": "Profesional",
+    "right_label": "",
+    "confidence": 0.0
+  },
+  {
+    "name": "Text98",
+    "type": "text",
+    "rect": [
+      25.5274,
+      69.524,
+      198.328,
+      83.2696
+    ],
+    "page": 0,
+    "label": "Profesional",
+    "row_label": "Profesional",
+    "column_label": "Profesional",
+    "line_label": "Profesional",
+    "right_label": "",
+    "confidence": 1.0
+  },
+  {
+    "name": "Text99",
+    "type": "text",
+    "rect": [
+      202.91,
+      70.524,
+      397.965,
+      94.0878
+    ],
+    "page": 0,
+    "label": "Dirección",
+    "row_label": "Profesional",
+    "column_label": "Dirección",
+    "line_label": "Comercial u Otras",
+    "right_label": "",
+    "confidence": 0.107
+  },
+  {
+    "name": "Text100",
+    "type": "text",
+    "rect": [
+      401.202,
+      70.9786,
+      439.82,
+      91.2696
+    ],
+    "page": 0,
+    "label": "De",
+    "row_label": "Profesional",
+    "column_label": "De",
+    "line_label": "Comercial u Otras",
+    "right_label": "",
+    "confidence": 0.096
+  },
+  {
+    "name": "Text101",
+    "type": "text",
+    "rect": [
+      442.475,
+      70.9786,
+      481.093,
+      91.2696
+    ],
+    "page": 0,
+    "label": "A",
+    "row_label": "Profesional",
+    "column_label": "A",
+    "line_label": "Comercial u Otras",
+    "right_label": "",
+    "confidence": 0.0
+  },
+  {
+    "name": "Text102",
+    "type": "text",
+    "rect": [
+      483.257,
+      70.9786,
+      517.948,
+      91.2696
+    ],
+    "page": 0,
+    "label": "Años",
+    "row_label": "Profesional",
+    "column_label": "Años",
+    "line_label": "Comercial u Otras",
+    "right_label": "",
+    "confidence": 0.0
+  },
+  {
+    "name": "Text103",
+    "type": "text",
+    "rect": [
+      519.057,
+      70.9786,
+      588.439,
+      91.2696
+    ],
+    "page": 0,
+    "label": "Titulo Recibido",
+    "row_label": "Profesional",
+    "column_label": "Titulo Recibido",
+    "line_label": "Comercial u Otras",
+    "right_label": "",
+    "confidence": 0.096
+  },
+  {
+    "name": "Text104",
+    "type": "text",
+    "rect": [
+      26.8365,
+      48.233,
+      197.674,
+      59.3604
+    ],
+    "page": 0,
+    "label": "Comercial u Otras",
+    "row_label": "Comercial u Otras",
+    "column_label": "Comercial u Otras",
+    "line_label": "Comercial u Otras",
+    "right_label": "",
+    "confidence": 1.026
+  },
+  {
+    "name": "Text105",
+    "type": "text",
+    "rect": [
+      202.91,
+      50.5421,
+      397.965,
+      69.524
+    ],
+    "page": 0,
+    "label": "Dirección",
+    "row_label": "Comercial u Otras",
+    "column_label": "Dirección",
+    "line_label": "Estudios que esta efectuando en la actualidad:",
+    "right_label": "",
+    "confidence": 0.607
+  },
+  {
+    "name": "Text106",
+    "type": "text",
+    "rect": [
+      401.202,
+      49.6875,
+      439.82,
+      69.9785
+    ],
+    "page": 0,
+    "label": "De",
+    "row_label": "Comercial u Otras",
+    "column_label": "De",
+    "line_label": "Estudios que esta efectuando en la actualidad:",
+    "right_label": "",
+    "confidence": 0.628
+  },
+  {
+    "name": "Text107",
+    "type": "text",
+    "rect": [
+      442.475,
+      49.6875,
+      481.093,
+      69.9785
+    ],
+    "page": 0,
+    "label": "A",
+    "row_label": "Comercial u Otras",
+    "column_label": "A",
+    "line_label": "Estudios que esta efectuando en la actualidad:",
+    "right_label": "",
+    "confidence": 0.0
+  },
+  {
+    "name": "Text108",
+    "type": "text",
+    "rect": [
+      483.257,
+      49.6875,
+      517.948,
+      69.9785
+    ],
+    "page": 0,
+    "label": "Años",
+    "row_label": "Comercial u Otras",
+    "column_label": "Años",
+    "line_label": "Estudios que esta efectuando en la actualidad:",
+    "right_label": "",
+    "confidence": 0.004
+  },
+  {
+    "name": "Text109",
+    "type": "text",
+    "rect": [
+      519.057,
+      49.6875,
+      588.439,
+      69.9785
+    ],
+    "page": 0,
+    "label": "Titulo Recibido",
+    "row_label": "Comercial u Otras",
+    "column_label": "Titulo Recibido",
+    "line_label": "Estudios que esta efectuando en la actualidad:",
+    "right_label": "",
+    "confidence": 0.628
+  },
+  {
+    "name": "Text110",
+    "type": "text",
+    "rect": [
+      61.5276,
+      26.1784,
+      225.165,
+      39.924
+    ],
+    "page": 0,
+    "label": "que esta efectuando en la actualidad:",
+    "row_label": "Escuela",
+    "column_label": "que esta efectuando en la actualidad:",
+    "line_label": "Estudios que esta efectuando en la actualidad:",
+    "right_label": "Horario",
+    "confidence": 1.014
+  },
+  {
+    "name": "Text111",
+    "type": "text",
+    "rect": [
+      258.31,
+      26.1784,
+      359.765,
+      39.924
+    ],
+    "page": 0,
+    "label": "Dirección",
+    "row_label": "Horario",
+    "column_label": "Dirección",
+    "line_label": "Estudios que esta efectuando en la actualidad:",
+    "right_label": "Curso o Carrera",
+    "confidence": 1.032
+  },
+  {
+    "name": "Text112",
+    "type": "text",
+    "rect": [
+      422.838,
+      26.1784,
+      517.748,
+      39.924
+    ],
+    "page": 0,
+    "label": "De",
+    "row_label": "Curso o Carrera",
+    "column_label": "De",
+    "line_label": "Estudios que esta efectuando en la actualidad:",
+    "right_label": "Grado",
+    "confidence": 0.989
+  },
+  {
+    "name": "Text113",
+    "type": "text",
+    "rect": [
+      545.893,
+      26.1784,
+      587.13,
+      39.924
+    ],
+    "page": 0,
+    "label": "Recibido",
+    "row_label": "Grado",
+    "column_label": "Recibido",
+    "line_label": "Estudios que esta efectuando en la actualidad:",
+    "right_label": "",
+    "confidence": 0.973
+  },
+  {
+    "name": "Text114",
+    "type": "text",
+    "rect": [
+      29.7274,
+      723.272,
+      313.801,
+      737.018
+    ],
+    "page": 1,
+    "label": "Que idiomas habla",
+    "row_label": "Que idiomas habla",
+    "column_label": "Que idiomas habla",
+    "line_label": "(Nivel 50%, 75%, 100%)",
+    "right_label": "",
+    "confidence": 0.993
+  },
+  {
+    "name": "Text115",
+    "type": "text",
+    "rect": [
+      320.038,
+      723.272,
+      582.512,
+      737.018
+    ],
+    "page": 1,
+    "label": "Funciones de oficina que domina",
+    "row_label": "Funciones de oficina que domina",
+    "column_label": "Funciones de oficina que domina",
+    "line_label": "Funciones de oficina que domina",
+    "right_label": "",
+    "confidence": 0.993
+  },
+  {
+    "name": "Text116",
+    "type": "text",
+    "rect": [
+      29.7274,
+      700.054,
+      313.801,
+      713.8
+    ],
+    "page": 1,
+    "label": "Maquina de Oficina o taller que sepa manejar",
+    "row_label": "Maquina de Oficina o taller que sepa manejar",
+    "column_label": "Maquina de Oficina o taller que sepa manejar",
+    "line_label": "Maquina de Oficina o taller que sepa manejar",
+    "right_label": "",
+    "confidence": 1.001
+  },
+  {
+    "name": "Text117",
+    "type": "text",
+    "rect": [
+      320.074,
+      700.054,
+      582.548,
+      713.8
+    ],
+    "page": 1,
+    "label": "Software que conoce",
+    "row_label": "Software que conoce",
+    "column_label": "Software que conoce",
+    "line_label": "Software que conoce",
+    "right_label": "",
+    "confidence": 1.001
+  },
+  {
+    "name": "Text118",
+    "type": "text",
+    "rect": [
+      29.7274,
+      675.109,
+      580.203,
+      688.2
+    ],
+    "page": 1,
+    "label": "Otros trabajos o funciones que domina",
+    "row_label": "Otros trabajos o funciones que domina",
+    "column_label": "Otros trabajos o funciones que domina",
+    "line_label": "Otros trabajos o funciones que domina",
+    "right_label": "",
+    "confidence": 0.985
+  },
+  {
+    "name": "Text119",
+    "type": "text",
+    "rect": [
+      142.692,
+      621.163,
+      191.783,
+      634.254
+    ],
+    "page": 1,
+    "label": "de",
+    "row_label": "sus servicios",
+    "column_label": "de",
+    "line_label": "de",
+    "right_label": "",
+    "confidence": 1.01
+  },
+  {
+    "name": "Text120",
+    "type": "text",
+    "rect": [
+      204.835,
+      621.163,
+      253.926,
+      634.254
+    ],
+    "page": 1,
+    "label": "a",
+    "row_label": "sus servicios",
+    "column_label": "a",
+    "line_label": "a",
+    "right_label": "",
+    "confidence": 1.01
+  },
+  {
+    "name": "Text121",
+    "type": "text",
+    "rect": [
+      258.978,
+      621.163,
+      308.069,
+      634.254
+    ],
+    "page": 1,
+    "label": "de",
+    "row_label": "sus servicios",
+    "column_label": "de",
+    "line_label": "de",
+    "right_label": "",
+    "confidence": 1.01
+  },
+  {
+    "name": "Text122",
+    "type": "text",
+    "rect": [
+      318.121,
+      621.163,
+      367.212,
+      634.254
+    ],
+    "page": 1,
+    "label": "a",
+    "row_label": "sus servicios",
+    "column_label": "a",
+    "line_label": "a de",
+    "right_label": "",
+    "confidence": 1.01
+  },
+  {
+    "name": "Text123",
+    "type": "text",
+    "rect": [
+      371.264,
+      621.163,
+      420.355,
+      634.254
+    ],
+    "page": 1,
+    "label": "de",
+    "row_label": "sus servicios",
+    "column_label": "de",
+    "line_label": "a de",
+    "right_label": "",
+    "confidence": 1.01
+  },
+  {
+    "name": "Text124",
+    "type": "text",
+    "rect": [
+      427.407,
+      621.163,
+      476.498,
+      634.254
+    ],
+    "page": 1,
+    "label": "a",
+    "row_label": "sus servicios",
+    "column_label": "a",
+    "line_label": "a de",
+    "right_label": "",
+    "confidence": 1.01
+  },
+  {
+    "name": "Text125",
+    "type": "text",
+    "rect": [
+      479.02,
+      621.163,
+      528.111,
+      634.254
+    ],
+    "page": 1,
+    "label": "de",
+    "row_label": "sus servicios",
+    "column_label": "de",
+    "line_label": "a de",
+    "right_label": "",
+    "confidence": 1.01
+  },
+  {
+    "name": "Text126",
+    "type": "text",
+    "rect": [
+      535.693,
+      621.163,
+      584.784,
+      634.254
+    ],
+    "page": 1,
+    "label": "a",
+    "row_label": "sus servicios",
+    "column_label": "a",
+    "line_label": "a",
+    "right_label": "",
+    "confidence": 1.01
+  },
+  {
+    "name": "Text127",
+    "type": "text",
+    "rect": [
+      142.692,
+      597.254,
+      256.583,
+      618.199
+    ],
+    "page": 1,
+    "label": "de",
+    "row_label": "Nombre de la Compañía",
+    "column_label": "de",
+    "line_label": "Dirección",
+    "right_label": "",
+    "confidence": 0.609
+  },
+  {
+    "name": "Text128",
+    "type": "text",
+    "rect": [
+      258.978,
+      597.254,
+      366.978,
+      618.199
+    ],
+    "page": 1,
+    "label": "de",
+    "row_label": "Nombre de la Compañía",
+    "column_label": "de",
+    "line_label": "Dirección",
+    "right_label": "",
+    "confidence": 0.609
+  },
+  {
+    "name": "Text129",
+    "type": "text",
+    "rect": [
+      371.264,
+      597.254,
+      474.683,
+      618.199
+    ],
+    "page": 1,
+    "label": "de",
+    "row_label": "Nombre de la Compañía",
+    "column_label": "de",
+    "line_label": "Dirección",
+    "right_label": "",
+    "confidence": 0.609
+  },
+  {
+    "name": "Text130",
+    "type": "text",
+    "rect": [
+      479.02,
+      618.199,
+      583.748,
+      597.254
+    ],
+    "page": 1,
+    "label": "de",
+    "row_label": "Nombre de la Compañía",
+    "column_label": "de",
+    "line_label": "Dirección",
+    "right_label": "",
+    "confidence": 0.609
+  },
+  {
+    "name": "Text131",
+    "type": "text",
+    "rect": [
+      142.692,
+      574.417,
+      256.583,
+      595.363
+    ],
+    "page": 1,
+    "label": "de",
+    "row_label": "Dirección",
+    "column_label": "de",
+    "line_label": "Teléfono",
+    "right_label": "",
+    "confidence": 0.038
+  },
+  {
+    "name": "Text132",
+    "type": "text",
+    "rect": [
+      258.978,
+      574.417,
+      366.978,
+      595.363
+    ],
+    "page": 1,
+    "label": "de",
+    "row_label": "Dirección",
+    "column_label": "de",
+    "line_label": "Teléfono",
+    "right_label": "",
+    "confidence": 0.038
+  },
+  {
+    "name": "Text133",
+    "type": "text",
+    "rect": [
+      371.264,
+      574.417,
+      474.683,
+      595.363
+    ],
+    "page": 1,
+    "label": "de",
+    "row_label": "Dirección",
+    "column_label": "de",
+    "line_label": "Teléfono",
+    "right_label": "",
+    "confidence": 0.038
+  },
+  {
+    "name": "Text134",
+    "type": "text",
+    "rect": [
+      479.02,
+      574.417,
+      583.748,
+      595.363
+    ],
+    "page": 1,
+    "label": "de",
+    "row_label": "Dirección",
+    "column_label": "de",
+    "line_label": "Teléfono",
+    "right_label": "",
+    "confidence": 0.038
+  },
+  {
+    "name": "Text135",
+    "type": "text",
+    "rect": [
+      142.692,
+      557.672,
+      256.583,
+      574.035
+    ],
+    "page": 1,
+    "label": "de",
+    "row_label": "Teléfono",
+    "column_label": "de",
+    "line_label": "Puesto",
+    "right_label": "",
+    "confidence": 0.331
+  },
+  {
+    "name": "Text136",
+    "type": "text",
+    "rect": [
+      258.978,
+      557.672,
+      366.978,
+      574.035
+    ],
+    "page": 1,
+    "label": "de",
+    "row_label": "Teléfono",
+    "column_label": "de",
+    "line_label": "Puesto",
+    "right_label": "",
+    "confidence": 0.0
+  },
+  {
+    "name": "Text137",
+    "type": "text",
+    "rect": [
+      371.264,
+      557.672,
+      474.683,
+      574.035
+    ],
+    "page": 1,
+    "label": "de",
+    "row_label": "Teléfono",
+    "column_label": "de",
+    "line_label": "Puesto",
+    "right_label": "",
+    "confidence": 0.0
+  },
+  {
+    "name": "Text138",
+    "type": "text",
+    "rect": [
+      479.02,
+      557.672,
+      583.748,
+      574.035
+    ],
+    "page": 1,
+    "label": "de",
+    "row_label": "Teléfono",
+    "column_label": "de",
+    "line_label": "Puesto",
+    "right_label": "",
+    "confidence": 0.0
+  },
+  {
+    "name": "Text139",
+    "type": "text",
+    "rect": [
+      142.692,
+      534.417,
+      256.583,
+      555.363
+    ],
+    "page": 1,
+    "label": "de",
+    "row_label": "Puesto desempeñado",
+    "column_label": "de",
+    "line_label": "Final",
+    "right_label": "",
+    "confidence": 0.912
+  },
+  {
+    "name": "Text140",
+    "type": "text",
+    "rect": [
+      258.978,
+      534.417,
+      366.978,
+      555.363
+    ],
+    "page": 1,
+    "label": "de",
+    "row_label": "Puesto desempeñado",
+    "column_label": "de",
+    "line_label": "Final",
+    "right_label": "",
+    "confidence": 0.0
+  },
+  {
+    "name": "Text141",
+    "type": "text",
+    "rect": [
+      371.264,
+      534.417,
+      474.683,
+      555.363
+    ],
+    "page": 1,
+    "label": "de",
+    "row_label": "Puesto desempeñado",
+    "column_label": "de",
+    "line_label": "Final",
+    "right_label": "",
+    "confidence": 0.0
+  },
+  {
+    "name": "Text142",
+    "type": "text",
+    "rect": [
+      479.02,
+      534.417,
+      583.748,
+      555.363
+    ],
+    "page": 1,
+    "label": "de",
+    "row_label": "Puesto desempeñado",
+    "column_label": "de",
+    "line_label": "Final",
+    "right_label": "",
+    "confidence": 0.0
+  },
+  {
+    "name": "Text143",
+    "type": "text",
+    "rect": [
+      142.692,
+      510.199,
+      191.783,
+      523.29
+    ],
+    "page": 1,
+    "label": "Inicial",
+    "row_label": "Inicial",
+    "column_label": "Inicial",
+    "line_label": "Inicial",
+    "right_label": "",
+    "confidence": 1.008
+  },
+  {
+    "name": "Text144",
+    "type": "text",
+    "rect": [
+      204.835,
+      510.199,
+      253.926,
+      523.29
+    ],
+    "page": 1,
+    "label": "Final",
+    "row_label": "Final",
+    "column_label": "Final",
+    "line_label": "Final",
+    "right_label": "",
+    "confidence": 1.008
+  },
+  {
+    "name": "Text145",
+    "type": "text",
+    "rect": [
+      258.978,
+      510.199,
+      308.069,
+      523.29
+    ],
+    "page": 1,
+    "label": "de",
+    "row_label": "de",
+    "column_label": "de",
+    "line_label": "Final",
+    "right_label": "",
+    "confidence": 0.0
+  },
+  {
+    "name": "Text146",
+    "type": "text",
+    "rect": [
+      318.121,
+      510.199,
+      367.212,
+      523.29
+    ],
+    "page": 1,
+    "label": "a",
+    "row_label": "a",
+    "column_label": "a",
+    "line_label": "Final",
+    "right_label": "",
+    "confidence": 0.0
+  },
+  {
+    "name": "Text147",
+    "type": "text",
+    "rect": [
+      371.264,
+      510.199,
+      420.355,
+      523.29
+    ],
+    "page": 1,
+    "label": "de",
+    "row_label": "de",
+    "column_label": "de",
+    "line_label": "Final",
+    "right_label": "",
+    "confidence": 0.0
+  },
+  {
+    "name": "Text148",
+    "type": "text",
+    "rect": [
+      427.407,
+      510.199,
+      476.498,
+      523.29
+    ],
+    "page": 1,
+    "label": "a",
+    "row_label": "a",
+    "column_label": "a",
+    "line_label": "Final",
+    "right_label": "",
+    "confidence": 0.0
+  },
+  {
+    "name": "Text149",
+    "type": "text",
+    "rect": [
+      479.02,
+      510.199,
+      528.111,
+      523.29
+    ],
+    "page": 1,
+    "label": "de",
+    "row_label": "de",
+    "column_label": "de",
+    "line_label": "Final",
+    "right_label": "",
+    "confidence": 0.0
+  },
+  {
+    "name": "Text150",
+    "type": "text",
+    "rect": [
+      535.693,
+      510.199,
+      584.784,
+      523.29
+    ],
+    "page": 1,
+    "label": "a",
+    "row_label": "a",
+    "column_label": "a",
+    "line_label": "Final",
+    "right_label": "",
+    "confidence": 0.0
+  },
+  {
+    "name": "Text151",
+    "type": "text",
+    "rect": [
+      144.655,
+      487.29,
+      255.274,
+      505.617
+    ],
+    "page": 1,
+    "label": "Inicial",
+    "row_label": "Motivo de separación",
+    "column_label": "Inicial",
+    "line_label": "Nombre de su jefe",
+    "right_label": "",
+    "confidence": 0.566
+  },
+  {
+    "name": "Text152",
+    "type": "text",
+    "rect": [
+      259.819,
+      487.29,
+      369.129,
+      505.617
+    ],
+    "page": 1,
+    "label": "de",
+    "row_label": "Motivo de separación",
+    "column_label": "de",
+    "line_label": "Nombre de su jefe",
+    "right_label": "",
+    "confidence": 0.0
+  },
+  {
+    "name": "Text153",
+    "type": "text",
+    "rect": [
+      373.129,
+      487.29,
+      475.238,
+      505.617
+    ],
+    "page": 1,
+    "label": "de",
+    "row_label": "Motivo de separación",
+    "column_label": "de",
+    "line_label": "Nombre de su jefe",
+    "right_label": "",
+    "confidence": 0.0
+  },
+  {
+    "name": "Text154",
+    "type": "text",
+    "rect": [
+      479.129,
+      487.29,
+      583.857,
+      505.617
+    ],
+    "page": 1,
+    "label": "de",
+    "row_label": "Motivo de separación",
+    "column_label": "de",
+    "line_label": "Nombre de su jefe",
+    "right_label": "",
+    "confidence": 0.0
+  },
+  {
+    "name": "Text155",
+    "type": "text",
+    "rect": [
+      144.655,
+      463.417,
+      255.274,
+      481.744
+    ],
+    "page": 1,
+    "label": "Inicial",
+    "row_label": "Nombre de su jefe directo",
+    "column_label": "Inicial",
+    "line_label": "Puesto de de jefe",
+    "right_label": "",
+    "confidence": 0.377
+  },
+  {
+    "name": "Text156",
+    "type": "text",
+    "rect": [
+      259.819,
+      463.417,
+      369.129,
+      481.744
+    ],
+    "page": 1,
+    "label": "de",
+    "row_label": "Nombre de su jefe directo",
+    "column_label": "de",
+    "line_label": "Puesto de de jefe",
+    "right_label": "",
+    "confidence": 0.0
+  },
+  {
+    "name": "Text157",
+    "type": "text",
+    "rect": [
+      373.129,
+      463.417,
+      475.238,
+      481.744
+    ],
+    "page": 1,
+    "label": "de",
+    "row_label": "Nombre de su jefe directo",
+    "column_label": "de",
+    "line_label": "Puesto de de jefe",
+    "right_label": "",
+    "confidence": 0.0
+  },
+  {
+    "name": "Text158",
+    "type": "text",
+    "rect": [
+      479.129,
+      481.744,
+      583.857,
+      463.417
+    ],
+    "page": 1,
+    "label": "de",
+    "row_label": "Nombre de su jefe directo",
+    "column_label": "de",
+    "line_label": "Puesto de de jefe",
+    "right_label": "",
+    "confidence": 0.0
+  },
+  {
+    "name": "Text159",
+    "type": "text",
+    "rect": [
+      144.655,
+      439.508,
+      255.274,
+      457.835
+    ],
+    "page": 1,
+    "label": "Inicial",
+    "row_label": "Puesto de de jefe directo",
+    "column_label": "Inicial",
+    "line_label": "Comentarios de sus jefes",
+    "right_label": "",
+    "confidence": 0.975
+  },
+  {
+    "name": "Text160",
+    "type": "text",
+    "rect": [
+      259.819,
+      439.508,
+      369.129,
+      457.835
+    ],
+    "page": 1,
+    "label": "de",
+    "row_label": "Puesto de de jefe directo",
+    "column_label": "de",
+    "line_label": "Comentarios de sus jefes",
+    "right_label": "",
+    "confidence": 0.0
+  },
+  {
+    "name": "Text161",
+    "type": "text",
+    "rect": [
+      373.129,
+      439.508,
+      475.238,
+      457.835
+    ],
+    "page": 1,
+    "label": "de",
+    "row_label": "Puesto de de jefe directo",
+    "column_label": "de",
+    "line_label": "Comentarios de sus jefes",
+    "right_label": "",
+    "confidence": 0.0
+  },
+  {
+    "name": "Text162",
+    "type": "text",
+    "rect": [
+      479.129,
+      457.835,
+      583.857,
+      439.508
+    ],
+    "page": 1,
+    "label": "de",
+    "row_label": "Puesto de de jefe directo",
+    "column_label": "de",
+    "line_label": "Comentarios de sus jefes",
+    "right_label": "",
+    "confidence": 0.0
+  },
+  {
+    "name": "Check Box163",
+    "type": "checkbox",
+    "rect": [
+      27.491,
+      410.089,
+      42.5456,
+      420.562
+    ],
+    "page": 1,
+    "label": "informes",
+    "row_label": "informes",
+    "column_label": "informes",
+    "line_label": "informes de usted",
+    "right_label": "Si",
+    "confidence": 1.002
+  },
+  {
+    "name": "Check Box164",
+    "type": "checkbox",
+    "rect": [
+      27.491,
+      399.38,
+      42.5456,
+      409.853
+    ],
+    "page": 1,
+    "label": "informes",
+    "row_label": "informes",
+    "column_label": "informes",
+    "line_label": "Si",
+    "right_label": "No (Razones)",
+    "confidence": 0.734
+  },
+  {
+    "name": "Text165",
+    "type": "text",
+    "rect": [
+      143.31,
+      399.926,
+      585.784,
+      430.689
+    ],
+    "page": 1,
+    "label": "Comentarios de sus jefes",
+    "row_label": "informes de usted Si No (Razones)",
+    "column_label": "Comentarios de sus jefes",
+    "line_label": "Comentarios de sus jefes",
+    "right_label": "",
+    "confidence": 1.003
+  },
+  {
+    "name": "Text166",
+    "type": "text",
+    "rect": [
+      29.4547,
+      349.834,
+      152.51,
+      368.816
+    ],
+    "page": 1,
+    "label": "Nombre",
+    "row_label": "Nombre",
+    "column_label": "Nombre",
+    "line_label": "Nombre",
+    "right_label": "",
+    "confidence": 0.938
+  },
+  {
+    "name": "Text167",
+    "type": "text",
+    "rect": [
+      157.746,
+      349.834,
+      280.801,
+      368.816
+    ],
+    "page": 1,
+    "label": "Domicilio",
+    "row_label": "Domicilio",
+    "column_label": "Domicilio",
+    "line_label": "Domicilio",
+    "right_label": "",
+    "confidence": 0.938
+  },
+  {
+    "name": "Text168",
+    "type": "text",
+    "rect": [
+      285.383,
+      349.834,
+      381.602,
+      368.816
+    ],
+    "page": 1,
+    "label": "Teléfono",
+    "row_label": "Teléfono",
+    "column_label": "Teléfono",
+    "line_label": "Teléfono",
+    "right_label": "",
+    "confidence": 0.938
+  },
+  {
+    "name": "Text169",
+    "type": "text",
+    "rect": [
+      385.529,
+      349.834,
+      490.257,
+      368.816
+    ],
+    "page": 1,
+    "label": "Ocupación",
+    "row_label": "Ocupación",
+    "column_label": "Ocupación",
+    "line_label": "Ocupación",
+    "right_label": "",
+    "confidence": 0.938
+  },
+  {
+    "name": "Text170",
+    "type": "text",
+    "rect": [
+      493.493,
+      349.834,
+      584.475,
+      368.816
+    ],
+    "page": 1,
+    "label": "Tiempo de conocerlo",
+    "row_label": "Tiempo de conocerlo",
+    "column_label": "Tiempo de conocerlo",
+    "line_label": "Tiempo de conocerlo",
+    "right_label": "",
+    "confidence": 0.938
+  },
+  {
+    "name": "Text171",
+    "type": "text",
+    "rect": [
+      29.4547,
+      330.062,
+      152.51,
+      349.043
+    ],
+    "page": 1,
+    "label": "Nombre",
+    "row_label": "Nombre",
+    "column_label": "Nombre",
+    "line_label": "Nombre",
+    "right_label": "",
+    "confidence": 0.444
+  },
+  {
+    "name": "Text172",
+    "type": "text",
+    "rect": [
+      157.746,
+      330.062,
+      280.801,
+      349.043
+    ],
+    "page": 1,
+    "label": "Domicilio",
+    "row_label": "Domicilio",
+    "column_label": "Domicilio",
+    "line_label": "Domicilio",
+    "right_label": "",
+    "confidence": 0.444
+  },
+  {
+    "name": "Text173",
+    "type": "text",
+    "rect": [
+      285.383,
+      349.043,
+      381.602,
+      330.062
+    ],
+    "page": 1,
+    "label": "Teléfono",
+    "row_label": "Teléfono",
+    "column_label": "Teléfono",
+    "line_label": "Teléfono",
+    "right_label": "",
+    "confidence": 0.444
+  },
+  {
+    "name": "Text174",
+    "type": "text",
+    "rect": [
+      385.529,
+      349.043,
+      490.257,
+      330.062
+    ],
+    "page": 1,
+    "label": "Ocupación",
+    "row_label": "Ocupación",
+    "column_label": "Ocupación",
+    "line_label": "Ocupación",
+    "right_label": "",
+    "confidence": 0.444
+  },
+  {
+    "name": "Text175",
+    "type": "text",
+    "rect": [
+      493.493,
+      349.043,
+      584.475,
+      330.062
+    ],
+    "page": 1,
+    "label": "Tiempo de conocerlo",
+    "row_label": "Tiempo de conocerlo",
+    "column_label": "Tiempo de conocerlo",
+    "line_label": "Tiempo de conocerlo",
+    "right_label": "",
+    "confidence": 0.444
+  },
+  {
+    "name": "Text176",
+    "type": "text",
+    "rect": [
+      29.4547,
+      309.289,
+      152.51,
+      328.271
+    ],
+    "page": 1,
+    "label": "Nombre",
+    "row_label": "Nombre",
+    "column_label": "Nombre",
+    "line_label": "Datos Generales",
+    "right_label": "",
+    "confidence": 0.486
+  },
+  {
+    "name": "Text177",
+    "type": "text",
+    "rect": [
+      157.746,
+      309.289,
+      280.801,
+      328.271
+    ],
+    "page": 1,
+    "label": "Domicilio",
+    "row_label": "Domicilio",
+    "column_label": "Domicilio",
+    "line_label": "Datos Generales",
+    "right_label": "",
+    "confidence": 0.762
+  },
+  {
+    "name": "Text178",
+    "type": "text",
+    "rect": [
+      285.383,
+      328.271,
+      381.602,
+      309.289
+    ],
+    "page": 1,
+    "label": "Teléfono",
+    "row_label": "Teléfono",
+    "column_label": "Teléfono",
+    "line_label": "Datos Económicos",
+    "right_label": "",
+    "confidence": 0.486
+  },
+  {
+    "name": "Text179",
+    "type": "text",
+    "rect": [
+      385.529,
+      328.271,
+      490.257,
+      309.289
+    ],
+    "page": 1,
+    "label": "Ocupación",
+    "row_label": "Ocupación",
+    "column_label": "Ocupación",
+    "line_label": "Datos Económicos",
+    "right_label": "",
+    "confidence": 0.762
+  },
+  {
+    "name": "Text180",
+    "type": "text",
+    "rect": [
+      493.493,
+      328.271,
+      584.475,
+      309.289
+    ],
+    "page": 1,
+    "label": "Tiempo de conocerlo",
+    "row_label": "Tiempo de conocerlo",
+    "column_label": "Tiempo de conocerlo",
+    "line_label": "Datos Económicos",
+    "right_label": "",
+    "confidence": 0.486
+  },
+  {
+    "name": "Check Box181",
+    "type": "checkbox",
+    "rect": [
+      27.491,
+      268.361,
+      41.8911,
+      280.143
+    ],
+    "page": 1,
+    "label": "¿Como",
+    "row_label": "¿Como",
+    "column_label": "¿Como",
+    "line_label": "¿Como supo de este empleo?",
+    "right_label": "Anuncio",
+    "confidence": 0.983
+  },
+  {
+    "name": "Check Box182",
+    "type": "checkbox",
+    "rect": [
+      88.364,
+      280.143,
+      102.764,
+      268.361
+    ],
+    "page": 1,
+    "label": "este",
+    "row_label": "Anuncio",
+    "column_label": "este",
+    "line_label": "¿Como supo de este empleo?",
+    "right_label": "Otro medio (anótelo)",
+    "confidence": 0.983
+  },
+  {
+    "name": "Text183",
+    "type": "text",
+    "rect": [
+      178.346,
+      282.761,
+      282.419,
+      270.325
+    ],
+    "page": 1,
+    "label": "Generales",
+    "row_label": "Otro medio (anótelo)",
+    "column_label": "Generales",
+    "line_label": "¿Tiene parientes trabajando en esta Empresa?",
+    "right_label": "No Si (descríbalos)",
+    "confidence": 1.041
+  },
+  {
+    "name": "Check Box184",
+    "type": "checkbox",
+    "rect": [
+      284.074,
+      269.016,
+      298.474,
+      279.489
+    ],
+    "page": 1,
+    "label": "¿Tiene",
+    "row_label": "Otro medio (anótelo)",
+    "column_label": "¿Tiene",
+    "line_label": "¿Tiene usted otros ingresos?",
+    "right_label": "No Si (descríbalos)",
+    "confidence": 0.967
+  },
+  {
+    "name": "Check Box185",
+    "type": "checkbox",
+    "rect": [
+      316.147,
+      279.489,
+      330.547,
+      269.016
+    ],
+    "page": 1,
+    "label": "usted",
+    "row_label": "No",
+    "column_label": "usted",
+    "line_label": "¿Tiene usted otros ingresos?",
+    "right_label": "Si (descríbalos)",
+    "confidence": 0.967
+  },
+  {
+    "name": "Text186",
+    "type": "text",
+    "rect": [
+      393.038,
+      269.67,
+      504.311,
+      282.761
+    ],
+    "page": 1,
+    "label": "Datos Económicos",
+    "row_label": "No Si (descríbalos)",
+    "column_label": "Datos Económicos",
+    "line_label": "Percepción mensual",
+    "right_label": "$",
+    "confidence": 0.946
+  },
+  {
+    "name": "Text187",
+    "type": "text",
+    "rect": [
+      513.82,
+      269.67,
+      585.166,
+      282.761
+    ],
+    "page": 1,
+    "label": "Tiempo de conocerlo",
+    "row_label": "$",
+    "column_label": "Tiempo de conocerlo",
+    "line_label": "Percepción mensual",
+    "right_label": "",
+    "confidence": 1.029
+  },
+  {
+    "name": "Check Box188",
+    "type": "checkbox",
+    "rect": [
+      28.1456,
+      257.234,
+      42.5457,
+      245.452
+    ],
+    "page": 1,
+    "label": "¿Tiene",
+    "row_label": "¿Tiene",
+    "column_label": "¿Tiene",
+    "line_label": "¿Ha estado afianzado?",
+    "right_label": "No Si (nómbrelos)",
+    "confidence": 0.978
+  },
+  {
+    "name": "Check Box189",
+    "type": "checkbox",
+    "rect": [
+      61.5275,
+      257.889,
+      75.9276,
+      246.107
+    ],
+    "page": 1,
+    "label": "parientes",
+    "row_label": "No",
+    "column_label": "parientes",
+    "line_label": "¿Tiene parientes trabajando en esta Empresa?",
+    "right_label": "Si (nómbrelos)",
+    "confidence": 0.979
+  },
+  {
+    "name": "Text190",
+    "type": "text",
+    "rect": [
+      132.528,
+      258.543,
+      282.419,
+      246.107
+    ],
+    "page": 1,
+    "label": "en esta Empresa?",
+    "row_label": "No Si (nómbrelos)",
+    "column_label": "en esta Empresa?",
+    "line_label": "¿Tiene parientes trabajando en esta Empresa?",
+    "right_label": "No Si (¿dónde?)",
+    "confidence": 0.995
+  },
+  {
+    "name": "Check Box191",
+    "type": "checkbox",
+    "rect": [
+      283.419,
+      246.623,
+      297.82,
+      257.096
+    ],
+    "page": 1,
+    "label": "¿Su",
+    "row_label": "No Si (nómbrelos)",
+    "column_label": "¿Su",
+    "line_label": "¿Su cónyuge trabaja?",
+    "right_label": "No Si (¿dónde?)",
+    "confidence": 0.959
+  },
+  {
+    "name": "Check Box192",
+    "type": "checkbox",
+    "rect": [
+      317.456,
+      246.561,
+      331.856,
+      257.034
+    ],
+    "page": 1,
+    "label": "cónyuge",
+    "row_label": "No",
+    "column_label": "cónyuge",
+    "line_label": "¿Su cónyuge trabaja?",
+    "right_label": "Si (¿dónde?)",
+    "confidence": 0.958
+  },
+  {
+    "name": "Text193",
+    "type": "text",
+    "rect": [
+      379.293,
+      247.416,
+      504.311,
+      258.543
+    ],
+    "page": 1,
+    "label": "(descríbalos)",
+    "row_label": "No Si (¿dónde?)",
+    "column_label": "(descríbalos)",
+    "line_label": "Percepción mensual",
+    "right_label": "$",
+    "confidence": 1.059
+  },
+  {
+    "name": "Text194",
+    "type": "text",
+    "rect": [
+      513.82,
+      246.452,
+      585.166,
+      259.543
+    ],
+    "page": 1,
+    "label": "Percepción mensual",
+    "row_label": "$",
+    "column_label": "Percepción mensual",
+    "line_label": "Percepción mensual",
+    "right_label": "",
+    "confidence": 1.029
+  },
+  {
+    "name": "Check Box195",
+    "type": "checkbox",
+    "rect": [
+      28.1456,
+      236.288,
+      42.5457,
+      224.507
+    ],
+    "page": 1,
+    "label": "¿Ha",
+    "row_label": "¿Ha",
+    "column_label": "¿Ha",
+    "line_label": "¿Ha estado afianzado?",
+    "right_label": "No Si (nombre de la Cía.)",
+    "confidence": 0.991
+  },
+  {
+    "name": "Check Box196",
+    "type": "checkbox",
+    "rect": [
+      60.873,
+      235.634,
+      75.2731,
+      223.852
+    ],
+    "page": 1,
+    "label": "estado afianzado?",
+    "row_label": "No",
+    "column_label": "estado afianzado?",
+    "line_label": "¿Ha estado afianzado?",
+    "right_label": "Si (nombre de la Cía.)",
+    "confidence": 0.975
+  },
+  {
+    "name": "Text197",
+    "type": "text",
+    "rect": [
+      156.746,
+      237.288,
+      282.419,
+      224.852
+    ],
+    "page": 1,
+    "label": "Empresa?",
+    "row_label": "No Si (nombre de la Cía.)",
+    "column_label": "Empresa?",
+    "line_label": "¿Vive en casa propia?",
+    "right_label": "No Si",
+    "confidence": 1.037
+  },
+  {
+    "name": "Check Box198",
+    "type": "checkbox",
+    "rect": [
+      284.074,
+      224.23,
+      298.474,
+      234.703
+    ],
+    "page": 1,
+    "label": "¿Vive",
+    "row_label": "No Si (nombre de la Cía.)",
+    "column_label": "¿Vive",
+    "line_label": "¿Paga renta?",
+    "right_label": "No Si",
+    "confidence": 0.957
+  },
+  {
+    "name": "Check Box199",
+    "type": "checkbox",
+    "rect": [
+      316.801,
+      224.107,
+      331.201,
+      234.579
+    ],
+    "page": 1,
+    "label": "casa",
+    "row_label": "No",
+    "column_label": "casa",
+    "line_label": "¿Paga renta?",
+    "right_label": "Si",
+    "confidence": 0.96
+  },
+  {
+    "name": "Text200",
+    "type": "text",
+    "rect": [
+      346.565,
+      224.507,
+      504.311,
+      237.598
+    ],
+    "page": 1,
+    "label": "propia?",
+    "row_label": "No Si",
+    "column_label": "propia?",
+    "line_label": "¿Vive en casa propia?",
+    "right_label": "$",
+    "confidence": 1.024
+  },
+  {
+    "name": "Text201",
+    "type": "text",
+    "rect": [
+      513.82,
+      223.852,
+      585.166,
+      236.943
+    ],
+    "page": 1,
+    "label": "Valor aproximado",
+    "row_label": "$",
+    "column_label": "Valor aproximado",
+    "line_label": "Valor aproximado",
+    "right_label": "",
+    "confidence": 1.029
+  },
+  {
+    "name": "Check Box202",
+    "type": "checkbox",
+    "rect": [
+      28.1456,
+      213.379,
+      42.5457,
+      201.597
+    ],
+    "page": 1,
+    "label": "¿Ha",
+    "row_label": "¿Ha",
+    "column_label": "¿Ha",
+    "line_label": "¿Tiene seguro de vida?",
+    "right_label": "No Si ¿a Cuál?",
+    "confidence": 0.97
+  },
+  {
+    "name": "Check Box203",
+    "type": "checkbox",
+    "rect": [
+      60.873,
+      213.379,
+      75.2731,
+      201.597
+    ],
+    "page": 1,
+    "label": "estado afiliado",
+    "row_label": "No",
+    "column_label": "estado afiliado",
+    "line_label": "¿Tiene seguro de vida?",
+    "right_label": "Si ¿a Cuál?",
+    "confidence": 0.97
+  },
+  {
+    "name": "Text204",
+    "type": "text",
+    "rect": [
+      122.71,
+      202.252,
+      282.419,
+      214.688
+    ],
+    "page": 1,
+    "label": "algún sindicato?",
+    "row_label": "No Si ¿a Cuál?",
+    "column_label": "algún sindicato?",
+    "line_label": "¿Ha estado afiliado a algún sindicato?",
+    "right_label": "No Si",
+    "confidence": 1.003
+  },
+  {
+    "name": "Check Box205",
+    "type": "checkbox",
+    "rect": [
+      285.038,
+      202.837,
+      299.438,
+      213.31
+    ],
+    "page": 1,
+    "label": "¿Paga",
+    "row_label": "No Si ¿a Cuál?",
+    "column_label": "¿Paga",
+    "line_label": "¿Paga renta?",
+    "right_label": "No Si",
+    "confidence": 0.968
+  },
+  {
+    "name": "Check Box206",
+    "type": "checkbox",
+    "rect": [
+      317.456,
+      202.652,
+      331.856,
+      213.125
+    ],
+    "page": 1,
+    "label": "renta?",
+    "row_label": "No",
+    "column_label": "renta?",
+    "line_label": "¿Paga renta?",
+    "right_label": "Si",
+    "confidence": 0.964
+  },
+  {
+    "name": "Text207",
+    "type": "text",
+    "rect": [
+      344.602,
+      202.252,
+      504.311,
+      215.343
+    ],
+    "page": 1,
+    "label": "propia?",
+    "row_label": "No Si",
+    "column_label": "propia?",
+    "line_label": "Renta mensual",
+    "right_label": "$",
+    "confidence": 0.958
+  },
+  {
+    "name": "Text208",
+    "type": "text",
+    "rect": [
+      513.82,
+      201.906,
+      585.166,
+      214.997
+    ],
+    "page": 1,
+    "label": "Renta mensual",
+    "row_label": "$",
+    "column_label": "Renta mensual",
+    "line_label": "Renta mensual",
+    "right_label": "",
+    "confidence": 1.029
+  },
+  {
+    "name": "Check Box209",
+    "type": "checkbox",
+    "rect": [
+      26.8365,
+      191.125,
+      41.2366,
+      179.343
+    ],
+    "page": 1,
+    "label": "¿Tiene",
+    "row_label": "¿Tiene",
+    "column_label": "¿Tiene",
+    "line_label": "¿Tiene seguro de vida?",
+    "right_label": "No Si (nombre de la Cía.)",
+    "confidence": 0.966
+  },
+  {
+    "name": "Check Box210",
+    "type": "checkbox",
+    "rect": [
+      61.5275,
+      191.125,
+      75.9276,
+      179.343
+    ],
+    "page": 1,
+    "label": "seguro",
+    "row_label": "No",
+    "column_label": "seguro",
+    "line_label": "¿Tiene seguro de vida?",
+    "right_label": "Si (nombre de la Cía.)",
+    "confidence": 0.966
+  },
+  {
+    "name": "Text211",
+    "type": "text",
+    "rect": [
+      154.782,
+      193.088,
+      282.419,
+      180.652
+    ],
+    "page": 1,
+    "label": "sindicato?",
+    "row_label": "No Si (nombre de la Cía.)",
+    "column_label": "sindicato?",
+    "line_label": "¿Tiene automóvil propio?",
+    "right_label": "No Si",
+    "confidence": 1.078
+  },
+  {
+    "name": "Check Box212",
+    "type": "checkbox",
+    "rect": [
+      283.419,
+      180.445,
+      297.82,
+      190.917
+    ],
+    "page": 1,
+    "label": "¿Tiene",
+    "row_label": "No Si (nombre de la Cía.)",
+    "column_label": "¿Tiene",
+    "line_label": "¿Tiene automóvil propio?",
+    "right_label": "No Si",
+    "confidence": 0.961
+  },
+  {
+    "name": "Check Box213",
+    "type": "checkbox",
+    "rect": [
+      316.801,
+      180.197,
+      331.201,
+      190.67
+    ],
+    "page": 1,
+    "label": "automóvil",
+    "row_label": "No",
+    "column_label": "automóvil",
+    "line_label": "¿Tiene automóvil propio?",
+    "right_label": "Si",
+    "confidence": 0.954
+  },
+  {
+    "name": "Text214",
+    "type": "text",
+    "rect": [
+      397.62,
+      180.652,
+      504.311,
+      193.088
+    ],
+    "page": 1,
+    "label": "Marca",
+    "row_label": "No Si",
+    "column_label": "Marca",
+    "line_label": "Marca",
+    "right_label": "",
+    "confidence": 1.015
+  },
+  {
+    "name": "Text215",
+    "type": "text",
+    "rect": [
+      505.311,
+      192.434,
+      585.166,
+      179.343
+    ],
+    "page": 1,
+    "label": "Modelo",
+    "row_label": "No Si",
+    "column_label": "Modelo",
+    "line_label": "Modelo",
+    "right_label": "",
+    "confidence": 0.999
+  },
+  {
+    "name": "Check Box216",
+    "type": "checkbox",
+    "rect": [
+      28.1456,
+      168.215,
+      42.5457,
+      156.434
+    ],
+    "page": 1,
+    "label": "¿Puede",
+    "row_label": "¿Puede",
+    "column_label": "¿Puede",
+    "line_label": "¿Puede viajar?",
+    "right_label": "Si",
+    "confidence": 0.981
+  },
+  {
+    "name": "Check Box217",
+    "type": "checkbox",
+    "rect": [
+      60.873,
+      167.561,
+      75.2731,
+      155.779
+    ],
+    "page": 1,
+    "label": "viajar?",
+    "row_label": "Si",
+    "column_label": "viajar?",
+    "line_label": "¿Esta dispuesto a cambia de lugar de residencia?",
+    "right_label": "No (razones)",
+    "confidence": 0.976
+  },
+  {
+    "name": "Text218",
+    "type": "text",
+    "rect": [
+      129.255,
+      171.488,
+      282.419,
+      159.052
+    ],
+    "page": 1,
+    "label": "la Cía.)",
+    "row_label": "No (razones)",
+    "column_label": "la Cía.)",
+    "line_label": "¿Esta dispuesto a cambia de lugar de residencia?",
+    "right_label": "No Si (¿con quién?)",
+    "confidence": 0.918
+  },
+  {
+    "name": "Check Box219",
+    "type": "checkbox",
+    "rect": [
+      283.419,
+      167.525,
+      297.82,
+      157.052
+    ],
+    "page": 1,
+    "label": "¿Tiene",
+    "row_label": "No (razones)",
+    "column_label": "¿Tiene",
+    "line_label": "¿Tiene deudas?",
+    "right_label": "No Si (¿con quién?)",
+    "confidence": 0.964
+  },
+  {
+    "name": "Check Box220",
+    "type": "checkbox",
+    "rect": [
+      317.111,
+      156.743,
+      331.511,
+      167.215
+    ],
+    "page": 1,
+    "label": "deudas?",
+    "row_label": "No",
+    "column_label": "deudas?",
+    "line_label": "¿Tiene deudas?",
+    "right_label": "Si (¿con quién?)",
+    "confidence": 0.956
+  },
+  {
+    "name": "Text221",
+    "type": "text",
+    "rect": [
+      396.965,
+      157.743,
+      504.311,
+      169.525
+    ],
+    "page": 1,
+    "label": "Marca",
+    "row_label": "No Si (¿con quién?)",
+    "column_label": "Marca",
+    "line_label": "Importe",
+    "right_label": "$",
+    "confidence": 0.927
+  },
+  {
+    "name": "Text222",
+    "type": "text",
+    "rect": [
+      517.748,
+      170.179,
+      585.166,
+      157.088
+    ],
+    "page": 1,
+    "label": "Importe",
+    "row_label": "$",
+    "column_label": "Importe",
+    "line_label": "Importe",
+    "right_label": "",
+    "confidence": 1.03
+  },
+  {
+    "name": "Check Box223",
+    "type": "checkbox",
+    "rect": [
+      27.1819,
+      145.961,
+      41.582,
+      134.179
+    ],
+    "page": 1,
+    "label": "¿Esta",
+    "row_label": "¿Esta",
+    "column_label": "¿Esta",
+    "line_label": "¿Esta dispuesto a cambia de lugar de residencia?",
+    "right_label": "Si",
+    "confidence": 0.977
+  },
+  {
+    "name": "Check Box224",
+    "type": "checkbox",
+    "rect": [
+      62.1821,
+      146.652,
+      76.5822,
+      134.87
+    ],
+    "page": 1,
+    "label": "dispuesto",
+    "row_label": "Si",
+    "column_label": "dispuesto",
+    "line_label": "¿Esta dispuesto a cambia de lugar de residencia?",
+    "right_label": "No (razones)",
+    "confidence": 0.994
+  },
+  {
+    "name": "Text225",
+    "type": "text",
+    "rect": [
+      127.946,
+      146.924,
+      282.419,
+      134.488
+    ],
+    "page": 1,
+    "label": "de lugar de residencia?",
+    "row_label": "No (razones)",
+    "column_label": "de lugar de residencia?",
+    "line_label": "¿Esta dispuesto a cambia de lugar de residencia?",
+    "right_label": "$",
+    "confidence": 1.001
+  },
+  {
+    "name": "Text226",
+    "type": "text",
+    "rect": [
+      293.892,
+      134.833,
+      583.203,
+      146.615
+    ],
+    "page": 1,
+    "label": "¿Cuanto abona mensualmente?",
+    "row_label": "$",
+    "column_label": "¿Cuanto abona mensualmente?",
+    "line_label": "¿Cuanto abona mensualmente?",
+    "right_label": "",
+    "confidence": 0.996
+  },
+  {
+    "name": "Text227",
+    "type": "text",
+    "rect": [
+      30.1092,
+      112.579,
+      276.874,
+      125.67
+    ],
+    "page": 1,
+    "label": "Fecha en que podría presentarse a trabajar",
+    "row_label": "Fecha en que podría presentarse a trabajar",
+    "column_label": "Fecha en que podría presentarse a trabajar",
+    "line_label": "Fecha en que podría presentarse a trabajar",
+    "right_label": "$",
+    "confidence": 1.021
+  },
+  {
+    "name": "Text228",
+    "type": "text",
+    "rect": [
+      293.892,
+      113.233,
+      583.203,
+      125.015
+    ],
+    "page": 1,
+    "label": "¿A cuánto ascienden sus gastos mensuales?",
+    "row_label": "$",
+    "column_label": "¿A cuánto ascienden sus gastos mensuales?",
+    "line_label": "¿A cuánto ascienden sus gastos mensuales?",
+    "right_label": "",
+    "confidence": 1.005
+  }
+]

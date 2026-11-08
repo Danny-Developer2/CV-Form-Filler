@@ -1,0 +1,86 @@
+{
+  "nombre": "Juan",
+  "apellidos": "Perez Lopez",
+  "contacto": {
+    "telefono": "+52 81 0000 0000",
+    "email": "juan.perez@example.com",
+    "web": "github.com/juanperez"
+  },
+  "fecha_nacimiento": "",
+  "domicilio": "Monterrey, Nuevo León",
+  "ciudad": "Monterrey",
+  "estado": "Nuevo León",
+  "nacionalidad": "",
+  "curp": "",
+  "rfc": "",
+  "nss": "",
+  "sexo": "Masculino",
+  "estado_civil": "Soltero",
+  "vive_con": "Solo",
+  "licencia": "Si",
+  "como_supo": "Anuncio",
+  "experiencia": [
+    {
+      "puesto": "Desarrollador Backend",
+      "empresa": "Empresa ABC",
+      "periodo": "2024 - 2026",
+      "descripcion": "Automatización de procesos con Python"
+    },
+    {
+      "puesto": "Desarrollador Frontend",
+      "empresa": "Empresa DEF",
+      "periodo": "2022 - 2023",
+      "descripcion": "Desarrollo de aplicaciones web con JavaScript"
+    },
+    {
+      "puesto": "Desarrollador Junior",
+      "empresa": "Empresa GHI",
+      "periodo": "2021 - 2022",
+      "descripcion": "Soporte y mantenimiento de sistemas"
+    }
+  ],
+  "educacion": [
+    {
+      "titulo": "Ingeniería Ficticia",
+      "institucion": "Universidad Ficticia",
+      "periodo": "2018 - 2022",
+      "grado": "Ingeniería"
+    },
+    {
+      "titulo": "Curso de Python",
+      "institucion": "Instituto Ficticio",
+      "periodo": "2023 - 2024",
+      "grado": ""
+    }
+  ],
+  "idiomas": [
+    "Español: Nativo",
+    "Inglés: Intermedio"
+  ],
+  "habilidades": [
+    "Python",
+    "Java",
+    "SQL",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "MySQL",
+    "PostgreSQL",
+    "Git",
+    "Docker",
+    "Linux"
+  ],
+  "software": [
+    "Python",
+    "Docker",
+    "Git",
+    "GitHub",
+    "SQL",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Linux",
+    "MySQL",
+    "PostgreSQL"
+  ]
+}
